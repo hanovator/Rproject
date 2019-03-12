@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552275480052.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2891371116",
+    "id" : "6275DF8A",
+    "lastKnownWriteTime" : 1552351289,
+    "last_content_update" : 1552351289657,
+    "path" : "D:/동강/10. [패스트캠퍼스] 데이터 분석 올인원 패키지_혼자 해보는 데이터 분석/rsciprt/3_insurance.R",
+    "project_path" : "rsciprt/3_insurance.R",
+    "properties" : {
+        "cursorPosition" : "51,3",
+        "scrollLine" : "32"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

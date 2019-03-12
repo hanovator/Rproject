@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552273926449.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3045043365",
+    "id" : "BAF9F154",
+    "lastKnownWriteTime" : 1552275522,
+    "last_content_update" : 1552275522026,
+    "path" : "D:/동강/10. [패스트캠퍼스] 데이터 분석 올인원 패키지_혼자 해보는 데이터 분석/rsciprt/2_highway.R",
+    "project_path" : "rsciprt/2_highway.R",
+    "properties" : {
+        "cursorPosition" : "67,2",
+        "scrollLine" : "49"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
